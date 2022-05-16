@@ -1,0 +1,37 @@
+body .head{
+    width:100%;
+    height:auto;
+}
+
+body .head .head_attr.left{
+
+    width:100px;
+    
+    height:35px;
+    
+    vertical-align: middle;
+    
+    text-align: center;
+    
+    outline:1px lightgrey solid;
+    
+    float:left;
+    
+}
+body .head .head_attr.right{
+
+    width:100px;
+    
+    height:35px;
+    
+    vertical-align: middle;
+    
+    text-align: center;
+    
+    outline:1px lightgrey solid;
+    
+    float:right;
+    
+    }
+    
+    
